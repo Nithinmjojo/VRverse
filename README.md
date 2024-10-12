@@ -2,7 +2,7 @@
 
 This project is a fully responsive React frontend for a VR software company landing page called VRverse. It utilizes Tailwind CSS for a clean and customizable design.
 
-## Live Demo:
+## Live Demo: https://vrverse.netlify.app/
 
 The website also contains a beautiful hero section which uses gradient text, to give a modern look to the site. We will also be using video tag to display few videos in autoplay and loop mode. The site also contains a feature section that lists all the features of the product displayed in a clean UI.
 The site will also have a pricing card feature with three plans for the users to select.
