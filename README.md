@@ -10,7 +10,9 @@ The site will also have a pricing card feature with three plans for the users to
 ## Technologies Used
 
 React.js
+
 Tailwind CSS
+
 npm (Node Package Manager)
 
 ## Features
