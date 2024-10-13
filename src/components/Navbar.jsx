@@ -44,7 +44,7 @@ const Navbar = () => {
                 </ul>
                     <div className="flex space-x-5">
                         <a href="#" className ="py-2 px-3 border rounded-md">Sign In</a>
-                        <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md">Create Account</a>
+                        <a href="#" className="bg-gradient-to-r from-blue-500 to-red-800 py-2 px-3 rounded-md">Create Account</a>
                     </div>
             </div>
             )}
